@@ -28,10 +28,3 @@ This project segments customers into distinct groups based on behavioral and dem
 ## 💡 Sample Output
 ![Cluster Scatterplot](<img width="695" height="468" alt="image" src="https://github.com/user-attachments/assets/dfdcfd2d-2d5c-490e-b265-fb2454985a97" />
 )
-
-## ▶️ Run This Project
-1. Clone the repo
-2. Install requirements: `pip install -r requirements.txt`
-3. Open notebook in `notebooks/` and run
-
----
